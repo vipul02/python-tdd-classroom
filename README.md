@@ -64,7 +64,7 @@ Run the tests
 You should see the following failing output
 
     ----------------------------------------------------------------------
-    Ran 6 tests in 0.002s
+    Ran 7 tests in 0.002s
 
     FAILED (failures=5)
     
@@ -74,7 +74,7 @@ You need to make all tests work and achieve the following output.
 
     $ python -m unittest
     ----------------------------------------------------------------------
-     Ran 6 tests in 0.002s
+     Ran 7 tests in 0.002s
 
      OK
      
