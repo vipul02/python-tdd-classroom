@@ -66,7 +66,7 @@ You should see the following failing output
     ----------------------------------------------------------------------
     Ran 7 tests in 0.002s
 
-    FAILED (failures=5)
+    FAILED (failures=6)
     
 Implement all the functions to make the tests pass.
 
