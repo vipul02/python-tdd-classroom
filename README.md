@@ -38,6 +38,25 @@ Make sure you are in the root directory of the project
     $ ls
     src/  tests/
     
+Then create a virtual environment for the project.
+
+On Linux
+
+    $ virtualenv -p python venv
+    $ . venv/bin/activate
+
+On Windows
+Powershell
+  
+    > virtualenv -p python venv
+    > .\venv\Scripts\activate
+
+Git Bash
+
+    $ virtualenv -p python venv
+    $ . venv/Scripts/activate
+
+    
 Run the tests
 
     $ python -m unittest
